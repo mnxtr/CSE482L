@@ -1,1 +1,3 @@
-# CSE482L
+# CSE482L 
+
+## lecture 2 
